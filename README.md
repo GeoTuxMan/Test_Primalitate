@@ -1,4 +1,4 @@
-# Test_Primalitate
-testare primalitate cu sunet si progress bar:
+# Primality Test
+testing primality with two methods:
 1) Miller-Rabin
-2) teorema lui Proth
+2) Proth's theorem
